@@ -10,7 +10,7 @@ Each course is organized into weekly folders, with Jupyter notebooks, data files
 
 ---
 
-## Directory Overview
+## Directory Overview 🔍
 
 ```bash
 ├── C1 - Supervised Machine Learning - Regression and Classification
@@ -32,9 +32,9 @@ Each course is organized into weekly folders, with Jupyter notebooks, data files
 
 ---
 
-## Course Details
+## Course Details 📚
 
-### C1 – Supervised Machine Learning: Regression and Classification
+### C1 – Supervised Machine Learning: Regression and Classification 🧮
 
 - **Week1:**  
   - Introduction to linear regression  
@@ -52,7 +52,7 @@ Each course is organized into weekly folders, with Jupyter notebooks, data files
 
 ---
 
-### C2 – Advanced Learning Algorithms
+### C2 – Advanced Learning Algorithms 🧠
 
 - **Week1:**  
   - Introduction to neural networks (neurons, layers)  
@@ -73,7 +73,7 @@ Each course is organized into weekly folders, with Jupyter notebooks, data files
 
 ---
 
-### C3 – Unsupervised Learning, Recommenders, Reinforcement Learning
+### C3 – Unsupervised Learning, Recommenders, Reinforcement Learning 🤖 
 
 - **Week1:**  
   - K-Means clustering and anomaly detection  
@@ -89,7 +89,7 @@ Each course is organized into weekly folders, with Jupyter notebooks, data files
 
 ---
 
-## Prerequisites
+## Prerequisites 🔧
 
 - **Python 3.x**
 - **Jupyter Notebook** or **JupyterLab**
@@ -103,7 +103,7 @@ pip install numpy matplotlib scikit-learn ipywidgets
 
 ---
 
-## Usage
+## Usage 🚀
 
 - Clone or download this repository.
 
@@ -121,10 +121,12 @@ jupyter notebook
 
 ---
 
-## Contributing
+## Contributing 🤝 
 Contributions are welcome! If you find any issues or have improvements, please open an issue or submit a pull request.
 
-## License
+---
+
+## License 📜 
 This project is licensed under the MIT License. (Include or reference the actual LICENSE file in my repository.) 
 
 
