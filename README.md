@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/2ffb7908-287c-445e-80cb-f9ba2d258605)
+
 # Machine Learning Specialization Labs
 
 This repository contains labs and supporting materials for three courses:
