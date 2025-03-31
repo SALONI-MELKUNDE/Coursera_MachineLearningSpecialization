@@ -100,3 +100,31 @@ Install required libraries using:
 ```bash
 pip install numpy matplotlib scikit-learn ipywidgets
 ```
+
+---
+
+## Usage
+
+- Clone or download this repository.
+
+- Install the prerequisites.
+
+- Launch Jupyter by running:
+
+```bash
+jupyter notebook
+```
+
+- Navigate to the desired course and week folder (e.g., C1/Week1/).
+
+- Open the Jupyter Notebook's and follow the instructions within each notebook.
+
+---
+
+## Contributing
+Contributions are welcome! If you find any issues or have improvements, please open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License. (Include or reference the actual LICENSE file in my repository.) 
+
+
