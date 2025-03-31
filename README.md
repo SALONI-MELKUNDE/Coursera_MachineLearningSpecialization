@@ -11,3 +11,24 @@ Each course is organized into weekly folders, with Jupyter notebooks, data files
 ---
 
 ## Directory Overview
+
+
+```bash
+
+├── C1 - Supervised Machine Learning - Regression and Classification
+│   ├── Week1
+│   ├── Week2
+│   └── Week3
+├── C2 - Advanced Learning Algorithms
+│   ├── Week1
+│   ├── Week2
+│   ├── Week3
+│   └── Week4
+├── C3 - Unsupervised Learning, Recommenders, Reinforcement Learning
+│   ├── Week1
+│   ├── Week2
+│   └── Week3
+├── LICENSE
+└── README.md
+
+```
