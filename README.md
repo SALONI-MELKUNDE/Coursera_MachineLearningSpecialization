@@ -12,9 +12,7 @@ Each course is organized into weekly folders, with Jupyter notebooks, data files
 
 ## Directory Overview
 
-
 ```bash
-
 ├── C1 - Supervised Machine Learning - Regression and Classification
 │   ├── Week1
 │   ├── Week2
@@ -30,7 +28,6 @@ Each course is organized into weekly folders, with Jupyter notebooks, data files
 │   └── Week3
 ├── LICENSE
 └── README.md
-
 ```
 
 ---
@@ -99,4 +96,7 @@ Each course is organized into weekly folders, with Jupyter notebooks, data files
 - **NumPy**, **Matplotlib**, **scikit-learn**, **ipywidgets** (and optionally **pandas** or **seaborn**)
 
 Install required libraries using:
+
 ```bash
+pip install numpy matplotlib scikit-learn ipywidgets
+```
